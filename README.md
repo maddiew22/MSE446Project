@@ -9,3 +9,4 @@
 7. Thresholding + anomaly labeling
 8. Evaluation / sanity checks
 9. Visualization
+bye and hi
