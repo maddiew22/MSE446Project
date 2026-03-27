@@ -83,3 +83,7 @@ Once the Isolation and Random Forest models are calculated, we show the train an
 ### Random Forest Results
 <img width="503" height="441" alt="Screenshot 2026-03-26 at 11 24 02 AM" src="https://github.com/user-attachments/assets/b3f419bf-394d-461c-89fc-88c9ac5b679a" />
 
+## PCA Plots to Visually Compare Models' Abilities to Identify Anomalies
+<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/cf417acf-5fe6-43d8-b21e-2200850bc676" />
+
+
